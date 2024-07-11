@@ -50,11 +50,11 @@ Usei o Prophet para fazer a previsão das taxas até o fim de 2025. Peguei o pri
 
 Temos alguns outliers, como entre 1995 e 2003. A partir da pandemia, temos alguns valores acima ou abaixo do intervalo de confiança. Por se tratar de uma taxa que depende de muitos fatores, é normal a presença de vários outliers. 
 
-Nessa página HTML, temos um gráfico interativo da previsão criado usando a biblioteca Plotly. Ele funciona melhor em computadores: [previsão.html](https://github.com/mths-andrade/inflacao/blob/83f5cfa1ca267c16a510531e1724846a1b564013/inflacao.html)
+Nessa página HTML, temos um gráfico interativo da previsão criado usando a biblioteca Plotly. Ele funciona melhor em computadores: [previsão.html](https://github.com/mths-andrade/inflacao/blob/730239996d8a1f7bb5aa201f22d5180d92140a5f/inflacao.html)
 
 Dando um zoom nos dados estimados, não se espera uma grande variação na taxa de inflação, para mais ou para menos.
 
-![plotly](https://github.com/mths-andrade/inflacao/assets/159069202/9e8b7a2a-72ed-485a-8ac0-d9aa8ccb81a5)
+![plotly](https://github.com/user-attachments/assets/d175cbd7-ae54-44cd-9600-322793b7824e)
 
 Temos também gráficos de tendências:
 
