@@ -33,7 +33,7 @@ Abaixo, a frequência da inflação. Grande parte das taxas acumuladas de infla�
 
 Temos a série temporal da inflação acumulada mês a mês:
 
-![inflação acumulada](https://github.com/mths-andrade/inflacao/assets/159069202/4ee3fa37-30eb-485b-ba00-0e9b73f165ba)
+![inflação acumulada](https://github.com/user-attachments/assets/e199d09f-08e8-4ae1-a8f4-a7ac1ad510e7)
 
 Transformando as datas em números, podemos fazer uma regressão. Não se espera um bom ajuste, na verdade esperamos não existir correlação. Temos praticamente nenhuma relação linear, como já esperávamos. Ajustando pelos mínimos quadrados, temos um péssimo coeficiente de correlação de 0.054. Ao menos temos p-valores nulos, existindo relevância estatística nos resultados da regressão.
 
