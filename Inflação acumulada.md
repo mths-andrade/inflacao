@@ -29,7 +29,7 @@ Lembrando de que a média e o desvio padrão são aproximados, como pode ser vis
 
 Abaixo, a frequência da inflação. Grande parte das taxas acumuladas de inflação estão abaixo de 1%, enquanto temos alguma frequência de deflação acumulada. Como o terceiro quartil é de 0.74%, o gráfico está de acordo com as estatísticas.
 
-![frequência inflação](https://github.com/mths-andrade/inflacao/assets/159069202/bc5f6bbd-4fc9-44e5-9f9d-87d6cf90a24d)
+![frequuência acumulada](https://github.com/user-attachments/assets/67be1d94-e1b9-446e-bf50-0c0824a8e444)
 
 Temos a série temporal da inflação acumulada mês a mês:
 
