@@ -42,7 +42,7 @@ Transformando as datas em números, podemos fazer uma regressão. Não se espera
 
 Temos também a série temporal anual média. Perdemos dados demais, por isso não fiz a regressão usando tal dataframe. Pelo menos a visualização é bem mais clara.
 
-![inflação anual](https://github.com/mths-andrade/inflacao/assets/159069202/af02081b-1696-459b-b36a-09634dc50506)
+![inflação anual](https://github.com/user-attachments/assets/0b3c1a71-1714-46ed-98a8-b0dfc7bf7677)
 
 Usei o Prophet para fazer a previsão das taxas até o fim de 2025. Peguei o primeiro método, das taxas acumuladas mês a mês.
 
